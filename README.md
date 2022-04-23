@@ -1,4 +1,4 @@
-# Phase 3 Final Project - Telecom Churn (Kai Graham)
+# SyriaTel Customer Churn
 
 ## README Outline
 Within this README.md file you will find:
